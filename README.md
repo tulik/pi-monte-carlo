@@ -1,4 +1,4 @@
-#[PHP7 is 2-3 times faster. Is it finally a breakdown?](https://tulik.github.io/case/2016/10/07/comparison-of-efficency)
+# [PHP7 is 2-3 times faster. Is it finally a breakdown?](https://tulik.github.io/case/2016/10/07/comparison-of-efficency)
 ## PI Monte Carlo method of successive approximations
 
 ### ANSI C solution build, run and timing:
